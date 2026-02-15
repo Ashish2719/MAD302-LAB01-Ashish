@@ -3,9 +3,9 @@ package com.example.profilelistapp
 /**
  * Course: MAD302
  * Lab: LAB 1
- * Name: YOUR FULL NAME
- * Student ID: YOUR STUDENT ID
- * Date: YYYY-MM-DD
+ * Name: Ashish Prajapati
+ * Student ID: A00194842
+ * Date: 2023-02-14
  *
  * Description:
  * This data class represents a user profile containing
